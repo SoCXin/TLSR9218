@@ -1,3 +1,3 @@
-﻿# [platforms](https://docs.os-q.com/platforms)
+﻿# [frameworks](https://doc.os-q.com)
 
-[platforms](https://github.com/OS-Q/platforms) 在原 [platforms](https://docs.platformio.org/en/latest/platforms) 基础上进行扩展，充分吸收 [Xindex](https://github.com/SoCXin) 的大量芯方案。
+[frameworks](https://github.com/OS-Q/frameworks) 收录常用的开发框架

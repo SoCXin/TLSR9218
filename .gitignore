@@ -40,7 +40,6 @@ Doxyfile
 *.odg
 # *.csv
 *.xml
-*.pdf
 *.xlsx
 *.zip
 *.xcf

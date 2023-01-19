@@ -1,0 +1,35 @@
+{
+    "type":"SoC",
+    "name":"TLSR9218",
+    "title": "telink TLSR9218 SoC",
+    "description":"telink BLE SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"RISC-V",
+        "Fmax":48,
+        "DMIPS": 70,
+        "CoreMark": 160
+    },
+    "manufacturer": {
+        "vendor":"telink",
+        "homepage":"https://www.telink-semi.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/TLSR9218.git"
+    },
+    "version":"1.0.0",
+    "series":["TLSR9218","TLSR8251"],
+    "package":["QFN48"],
+    "peripheral": ["ADC","BLE","Audio","SDIO","UART","SPI","IIC"],
+    "ESD": {
+        "HBM": 2000,
+        "CDM": 500
+    },
+    "keywords": [
+        "RISC-V",
+        "jieli",
+        "BLE","ADC","ECC","AES","MIC","I2S","BLE","PGA",
+        "3.6V","1.8V"
+    ]
+}
